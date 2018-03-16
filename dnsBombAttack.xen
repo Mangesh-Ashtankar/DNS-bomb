@@ -1,5 +1,4 @@
 name = 'dnsBombAttack'                                                                            
-                                                                                                   
 
 kernel = '/users/monica0/ClickOsSetupForCloudLab/clickos/minios/build/clickos_x86_64'              
 vcpus = '1'                                                                                        
