@@ -1,4 +1,5 @@
-name = 'dnsPackets'                                                                                     
+name = 'dnsPackets'   
+
 kernel = '/users/monica0/ClickOsSetupForCloudLab/clickos/minios/build/clickos_x86_64'             
 vcpus = '1'                                                                                       
 memory = '8'                                                                                       
