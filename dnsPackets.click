@@ -185,4 +185,3 @@ responseType[9] -> Print('Other response records') -> responseClassType;
 
 responseClassType[0] -> Print('Response Class Type: Internet') -> dest;
 responseClassType[1] -> Print('Response Classs Type: Others') -> dest;
-
