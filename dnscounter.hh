@@ -1,4 +1,5 @@
 // -*- mode: c++; c-basic-offset: 4 -*-
+
 #ifndef CLICK_DCOUNTER_HH
 #define CLICK_DCOUNTER_HH
 #include <click/element.hh>
