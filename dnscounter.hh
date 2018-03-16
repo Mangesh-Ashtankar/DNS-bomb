@@ -7,7 +7,6 @@
 CLICK_DECLS
 class HandlerCall;
 
-
 /*
 =c
 
