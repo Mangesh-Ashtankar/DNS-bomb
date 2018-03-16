@@ -88,6 +88,7 @@ DCounter::initialize(ErrorHandler *errh)
 Packet *
 DCounter::simple_action(Packet *p)
 {
+	
     _count++; 
 
     if(_count<=100){
