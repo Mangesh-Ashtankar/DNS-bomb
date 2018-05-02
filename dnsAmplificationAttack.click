@@ -14,4 +14,3 @@ c1[1] -> dest;
                                                                                                   
 c2[0] -> Print('Legitimate Packet') -> dest;                                              
 c2[1] -> Print('Suspicious packets') -> Discard;
-
