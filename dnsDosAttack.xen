@@ -9,3 +9,4 @@ on_poweroff = 'destroy'
 on_reboot = 'restart'                                                                              
 on_crash = 'preserve'                                                                              
 click = 'dnsDosAttack.click'
+
